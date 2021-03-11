@@ -1,0 +1,20 @@
+p {
+  color: red;
+}
+
+input[type=submit] {
+  width: 90%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display:inline-block;
+}
+
+input[type=submit]:hover{
+ color:#000000;
+ background-color:#FFFFFF;
+}
+
+ul {
+  list-style-type: none;
+  font-weight: normal;
+}
